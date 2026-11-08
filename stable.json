@@ -1,0 +1,9 @@
+{
+  "release": {
+    "schemaVersion": 1,
+    "state": "pending",
+    "version": "0.1.0",
+    "notes": "Release source is initialized. No Build Kit installer has been published."
+  },
+  "signature": "zBWfbSG9nEmMn9r9+16RfBBaZrAk4rqQgh3VEOXTbKH0UcTlj52XPeorZr5zvyXemnNCApd2yGwbaZA7wPLdAw=="
+}
