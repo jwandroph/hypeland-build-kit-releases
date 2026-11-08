@@ -1,9 +1,22 @@
 {
   "release": {
     "schemaVersion": 1,
-    "state": "pending",
+    "state": "available",
     "version": "0.1.0",
-    "notes": "Release source is initialized. No Build Kit installer has been published."
+    "notes": "Initial early release for Windows x64 and Linux x64. Requires Node.js 22.12 or later and npm.",
+    "releaseUrl": "https://github.com/jwandroph/hypeland-build-kit-releases/releases/tag/v0.1.0",
+    "artifacts": {
+      "win32-x64": {
+        "url": "https://github.com/jwandroph/hypeland-build-kit-releases/releases/download/v0.1.0/buildkit-0.1.0-win32-x64.gz",
+        "size": 45030096,
+        "sha256": "9982198e90718b14da46a8beeb54a4645541005d89a4b36a83a8ed4dac6574dd"
+      },
+      "linux-x64": {
+        "url": "https://github.com/jwandroph/hypeland-build-kit-releases/releases/download/v0.1.0/buildkit-0.1.0-linux-x64.gz",
+        "size": 61260477,
+        "sha256": "fad8fcbd991bd0e6cce52215ac75761dd7d0dcc8e1cf6d58cad432360a742316"
+      }
+    }
   },
-  "signature": "zBWfbSG9nEmMn9r9+16RfBBaZrAk4rqQgh3VEOXTbKH0UcTlj52XPeorZr5zvyXemnNCApd2yGwbaZA7wPLdAw=="
+  "signature": "1uZwXFWevbfv2X3pAQWgWE45s8xAyOvs2lXD0EptXdAdJI6/1umFrPBoG8pBXAcnYR8p852S0P0D2WFEDa94DQ=="
 }
