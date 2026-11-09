@@ -2,21 +2,21 @@
   "release": {
     "schemaVersion": 1,
     "state": "available",
-    "version": "0.1.4",
-    "notes": "Fixes missing revision numbers in graph preview responses and ensures simulated updates advance revisions correctly.",
-    "releaseUrl": "https://github.com/jwandroph/hypeland-build-kit-releases/releases/tag/v0.1.4",
+    "version": "0.1.5",
+    "notes": "Improves ZIP export error reporting and preserves existing build folders if restoration encounters a conflict.",
+    "releaseUrl": "https://github.com/jwandroph/hypeland-build-kit-releases/releases/tag/v0.1.5",
     "artifacts": {
       "win32-x64": {
-        "url": "https://github.com/jwandroph/hypeland-build-kit-releases/releases/download/v0.1.4/buildkit-0.1.4-win32-x64.gz",
-        "size": 45019135,
-        "sha256": "aceefb780ab7bfd9aea2bba22d02e2f5bbdb9265f4fe4a1683fc670dd95ee782"
+        "url": "https://github.com/jwandroph/hypeland-build-kit-releases/releases/download/v0.1.5/buildkit-0.1.5-win32-x64.gz",
+        "size": 45019747,
+        "sha256": "730a6537d398c5fe497387c813094d1d46f4116ee641d1a5d409e73cdf9ea3f8"
       },
       "linux-x64": {
-        "url": "https://github.com/jwandroph/hypeland-build-kit-releases/releases/download/v0.1.4/buildkit-0.1.4-linux-x64.gz",
-        "size": 61248947,
-        "sha256": "e95a52d4e0790862527e950e355562f02c262e8c201c4a329dd71e410fe08d66"
+        "url": "https://github.com/jwandroph/hypeland-build-kit-releases/releases/download/v0.1.5/buildkit-0.1.5-linux-x64.gz",
+        "size": 61249665,
+        "sha256": "2380eff5389aa0c4fc4644cd59c195be37ba44debf441281defde1aca25cb4a2"
       }
     }
   },
-  "signature": "uqQwkr5S+ezBWTLvmaLv5gwlX0gZXV3fl5jR5icRQQJgyLsrHOgrS0PKgGySzOkrhDnSDuo+YwX8Z8mnqEfRBA=="
+  "signature": "EjeQVKxL1zI1R2ZGBFYZb6EsmkfUcWImY/cMnyFZD+4whbvOCJXH1YJCVfN5pYsl6t+HUf0i1O8p2eeDjgIMBw=="
 }
