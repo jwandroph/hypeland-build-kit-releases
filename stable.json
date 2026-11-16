@@ -2,22 +2,22 @@
   "release": {
     "schemaVersion": 1,
     "state": "available",
-    "version": "0.1.6",
-    "sourceRevision": "62c93a3e4e278bb8ea3a55ae4c1bef9d2b73841f",
-    "notes": "Automated Build Kit release from reviewed main revision 62c93a3e4e27.",
-    "releaseUrl": "https://github.com/jwandroph/hypeland-build-kit-releases/releases/tag/v0.1.6",
+    "version": "0.1.7",
+    "sourceRevision": "1bbf1aa004a6f75f4bd1a582688fd90999037e97",
+    "notes": "Automated Build Kit release from reviewed main revision 1bbf1aa004a6.",
+    "releaseUrl": "https://github.com/jwandroph/hypeland-build-kit-releases/releases/tag/v0.1.7",
     "artifacts": {
       "win32-x64": {
-        "url": "https://github.com/jwandroph/hypeland-build-kit-releases/releases/download/v0.1.6/buildkit-0.1.6-win32-x64.gz",
-        "size": 44234419,
-        "sha256": "e4937a4d11fd17ec861933a375be17d9a979eece9b207901c6c82a1fbcb01473"
+        "url": "https://github.com/jwandroph/hypeland-build-kit-releases/releases/download/v0.1.7/buildkit-0.1.7-win32-x64.gz",
+        "size": 44237363,
+        "sha256": "5f45d0e7e1f1bd2e73665f83651dbd641c77f9429358a22ef72404f7fd31bfc6"
       },
       "linux-x64": {
-        "url": "https://github.com/jwandroph/hypeland-build-kit-releases/releases/download/v0.1.6/buildkit-0.1.6-linux-x64.gz",
-        "size": 60456373,
-        "sha256": "1e68bd6e3755fbefd0d9e38f21a24e4d827d7023286ecceba9fb7bfefc6cbaaa"
+        "url": "https://github.com/jwandroph/hypeland-build-kit-releases/releases/download/v0.1.7/buildkit-0.1.7-linux-x64.gz",
+        "size": 60459482,
+        "sha256": "e4faf636a07968d2b3c1c7e54fbe0b13b57ac47f9e5b2e5f083da6b507fb764e"
       }
     }
   },
-  "signature": "oNvWmu+vsrnuYD0n6TC5IAizwsLrTGfVoa1Pdvrg67W4jUin4YTaBVJbclw5yW0S1Acw47GcEI+hv2DEKUejDQ=="
+  "signature": "/zOlWwe3dKbXqRepV5Q28QqYvrAv5cGcOOXGEmaR170k8wRDRvhwTL3TRYmaDcjb18xt955u+ru2ARjA5oVsCg=="
 }
