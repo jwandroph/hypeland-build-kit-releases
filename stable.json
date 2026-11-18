@@ -2,22 +2,22 @@
   "release": {
     "schemaVersion": 1,
     "state": "available",
-    "version": "0.1.11",
-    "sourceRevision": "18846392ab499cfd93b8518e4c88f989369ed602",
-    "notes": "Automated Build Kit release from reviewed main revision 18846392ab49.",
-    "releaseUrl": "https://github.com/jwandroph/hypeland-build-kit-releases/releases/tag/v0.1.11",
+    "version": "0.1.12",
+    "sourceRevision": "192fcd8b1d8507b70f003d08da4516040ffe06fc",
+    "notes": "Automated Build Kit release from reviewed main revision 192fcd8b1d85.",
+    "releaseUrl": "https://github.com/jwandroph/hypeland-build-kit-releases/releases/tag/v0.1.12",
     "artifacts": {
       "win32-x64": {
-        "url": "https://github.com/jwandroph/hypeland-build-kit-releases/releases/download/v0.1.11/buildkit-0.1.11-win32-x64.gz",
-        "size": 44326049,
-        "sha256": "98a4ae624e396c754d56475cb34dc0ef18309c3929d622c05cae4bbf1e81d977"
+        "url": "https://github.com/jwandroph/hypeland-build-kit-releases/releases/download/v0.1.12/buildkit-0.1.12-win32-x64.gz",
+        "size": 44330195,
+        "sha256": "949eec0ecb0b628091c0838132da22a27ca945e0d3580c3eeed076933bba957f"
       },
       "linux-x64": {
-        "url": "https://github.com/jwandroph/hypeland-build-kit-releases/releases/download/v0.1.11/buildkit-0.1.11-linux-x64.gz",
-        "size": 60550441,
-        "sha256": "0a39faff6d5ead1a936e7959f0724f1535d87c535b1a251233f8e0b46ec5a7a8"
+        "url": "https://github.com/jwandroph/hypeland-build-kit-releases/releases/download/v0.1.12/buildkit-0.1.12-linux-x64.gz",
+        "size": 60555576,
+        "sha256": "1a8799a7e8fcf51dcb3010e23656648e539065a79f5c83459f15439b68a8c6ec"
       }
     }
   },
-  "signature": "8cWslI5PLb+ac+ywU8k+s0x1CvIVkaJ4tz2Yqiho8/qlxtnRry3PcgR7GKe7pHKynGrFiDxdYZIzEEfQCcnIBA=="
+  "signature": "msB5fCWDFkLJxiV9TJzrgnlPRNypKv2xhjM3hbqzdldg/DG8dvDqaLftlz6tf4qG0I5ehwaum+Xvhd9S0fbPBw=="
 }
